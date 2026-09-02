@@ -1,0 +1,50 @@
+body {
+    background-color:#000000;
+    color: rgb(228, 230, 233);
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+img{
+    opacity: 0.50;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  width: 200px;                
+  height: 150px;                
+  border-radius: 10px; 
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover{
+    opacity: 1;
+    zoom: 1.25;
+     opacity: 1;
+    transform: scale(1.15);
+}
+
+h2:hover{
+    color: white;
+}
+
+p {
+    color: rgb(223, 223, 225);
+    font-size: 1rem;
+     text-align: center;
+    line-height: 1.0rem; 
+    color: #c2c2c4;
+}
+
+a {
+    color: rgb(173, 68, 68);
+    text-decoration: none; 
+}
+
+#imgpersona {
+    width: 400px;
+    height: auto;
+}
